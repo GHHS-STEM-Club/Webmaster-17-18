@@ -978,11 +978,11 @@
 
 	#banner {
 		background-color: #666666;
-		background-image: url("../images/andromeda.jpg");
+		background-image: url("../images/andromeda2.png");
 		background-size: cover;
 		background-position: center center;
 		background-repeat: no-repeat;
-		color: #d8d8d8;
+		color: #000000;
 		padding: 14em 0;
 		text-align: center;
 		position: relative;
